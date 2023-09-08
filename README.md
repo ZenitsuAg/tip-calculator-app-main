@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/tip-calculator-app-main-using-react-tailwindcss-vite-dZiXkLfzQP)
-- Live Site URL: [Add live site URL here](https://zenitsuag.github.io/tip-calculator-app-main/)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/tip-calculator-app-main-using-react-tailwindcss-vite-dZiXkLfzQP)
+- Live Site URL: [Github Pages](https://zenitsuag.github.io/tip-calculator-app-main/)
 
 ## My process
 
