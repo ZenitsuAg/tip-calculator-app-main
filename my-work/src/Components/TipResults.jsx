@@ -5,7 +5,7 @@ export default function TipResults({ moneyAbout, moneyValue }) {
             <p className="text-sm">{moneyAbout}</p>
             <p className="text-xs text-dark-grayish-cyan">/ person</p>
           </div>
-          <div className="font-bold text-4xl text-strong-cyan">${moneyValue}</div>
+          <div className="font-bold text-5xl text-strong-cyan">${moneyValue}</div>
         </div>
     );
 }
