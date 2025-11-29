@@ -18,7 +18,6 @@ This is a solution to the [Tip calculator app challenge on Frontend Mentor](http
   - [Author](#author)
   - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -51,7 +50,7 @@ Users should be able to:
 
 ### What I learned
 
-I learnt React. This is the first time I've done anything in React and there are alot of things I would like to highlight but I will just talk of the awesomeness of `state` and `conditonal rendering`, this is are game changers, like having a fully interactive app with so little code increase productivity exponentially.
+I learnt React. This is the first time I've done anything in React and there are alot of things I would like to highlight but I will just talk of the awesomeness of `state` and `conditonal rendering`, these are game changers, like having a fully interactive app with so little code increase productivity exponentially.
 ```jsx
   const [person, setPerson] = useState(1);
 ```
@@ -66,7 +65,7 @@ I'm going to work hard and improve my skills, once I'm done with React Docs, I'l
 
 ### Useful resources
 
-- [React Docs](https://react.dev/) - This helped me a lot, from writing vanilla JS to React was not by any means easy. I'm super excited to see where how this goes. My code feels more organized and like there's a lot of possibilities which each challenge that pops up, it's amazing.
+- [React Docs](https://react.dev/) - This helped me a lot, transitioning from writing vanilla JS to React was not by any means easy. I'm super excited to see where how this goes. My code feels more organized and like there's a lot of possibilities which each challenge that pops up, it's amazing.
 
 ## Author
 
