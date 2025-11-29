@@ -6,11 +6,11 @@
 
 @layer components {
   .btn {
-    @apply p-2 bg-very-dark-cyan rounded-md text-white text-xl font-bold font-space-mono active:bg-strong-cyan active:text-very-dark-cyan hover:bg-light-grayish-cyan hover:text-very-dark-cyan transition-all duration-75 ease-in-out border-transparent border;
+    @apply p-2 bg-very-dark-cyan rounded-md text-white text-2xl font-bold font-space-mono active:bg-strong-cyan active:text-very-dark-cyan hover:bg-light-grayish-cyan hover:text-very-dark-cyan transition-all duration-75 ease-in-out border-transparent border;
   }
 
   .input {
-    @apply flex mt-1 mb-4 bg-very-light-grayish-cyan rounded-lg w-full outline-none outline-1 focus-within:outline-strong-cyan;
+    @apply flex bg-very-light-grayish-cyan rounded-lg w-full outline-none outline-1 focus-within:outline-strong-cyan;
   }
 }
 
@@ -18,6 +18,9 @@
     @apply outline-red-700;
   }
 
+  .active {
+    @apply bg-strong-cyan text-very-dark-cyan
+  }
 body {
   background: hsl(185, 41%, 84%);
 }
